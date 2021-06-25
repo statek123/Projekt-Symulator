@@ -1,0 +1,10 @@
+C:\Users\Kriss\source\repos\WindowsFormsProjekt\WindowsFormsProjekt\bin\Debug\WindowsFormsProjekt.exe.config
+C:\Users\Kriss\source\repos\WindowsFormsProjekt\WindowsFormsProjekt\bin\Debug\WindowsFormsProjekt.exe
+C:\Users\Kriss\source\repos\WindowsFormsProjekt\WindowsFormsProjekt\bin\Debug\WindowsFormsProjekt.pdb
+C:\Users\Kriss\source\repos\WindowsFormsProjekt\WindowsFormsProjekt\obj\Debug\WindowsFormsProjekt.csprojAssemblyReference.cache
+C:\Users\Kriss\source\repos\WindowsFormsProjekt\WindowsFormsProjekt\obj\Debug\WindowsFormsProjekt.Form1.resources
+C:\Users\Kriss\source\repos\WindowsFormsProjekt\WindowsFormsProjekt\obj\Debug\WindowsFormsProjekt.Properties.Resources.resources
+C:\Users\Kriss\source\repos\WindowsFormsProjekt\WindowsFormsProjekt\obj\Debug\WindowsFormsProjekt.csproj.GenerateResource.cache
+C:\Users\Kriss\source\repos\WindowsFormsProjekt\WindowsFormsProjekt\obj\Debug\WindowsFormsProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Kriss\source\repos\WindowsFormsProjekt\WindowsFormsProjekt\obj\Debug\WindowsFormsProjekt.exe
+C:\Users\Kriss\source\repos\WindowsFormsProjekt\WindowsFormsProjekt\obj\Debug\WindowsFormsProjekt.pdb
